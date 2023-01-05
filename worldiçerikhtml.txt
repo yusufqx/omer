@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neymar Junior</title>
+    <link rel="stylesheet" href="neymarwebst.css">
+</head>
+<body>
+    
+
+<div class="index">
+
+    <div id="bilek">Kadife Bilek Neymar</div>
+    <div class="ust">
+        <li id="anasayfa"><a href="anasayfa.html">Ana Sayfa</a></li>
+        <li id="liga"><a href="liga1.html">Neymar'ın Kariyeri</a></li>
+        <li id="odul"><a href="odul.html">Bireysel Ödüller</a></li>
+        <li id="transfer"><a href="transfer.html">Transfer Geçmişi</a></li>
+        <li id="world"><a href="world.html">Neymar'ın Toplam Serveti ve Hobileri </a></li>
+        <li id="liga"><a href="video.html">Neymar için yapılan videolar </a></li>
+      
+       
+        
+    </div>
+
+
+
+
+
+    </div>
+
+
+
+    <div class="world-icerik">
+        <h1> EĞLENCELİ</h1>
+    <p>Neymar’ın nasıl bir karaktere sahip olduğu aslında oynadığı futboldan da belli. Oyunu eğlenerek oynayan futbolcuların başını çekiyor. Özellikle de Barcelona’da Suarez ve Messi’yle buluşunca bu özelliği daha da ön plana çıktı. Neymar, saha dışında da eğlenceli bir kişiliğe sahip. Bunu sosyal medya hesaplarında da yansıtıyor. Alves’le birlikte El Perdon şarkısına eşlik edişi şahaneydi!</p>
+<h1>ÖĞRETİCİ</h1>
+
+<p>Onunla tanıştığın zaman, Brezilya’nın hatta dünya futbolunun gelmiş geçmiş en iyi futbolcularından birinin elini sıkmış olacaksın. Elbette Neymar’ı bulmuşken ondan bir şeyler kapmadan olmaz! Brezilyalı yıldız, katıldığı her etkinlikte gençlere bir şeyler öğretmekten geri durmuyor. Sen de bu fırsatı kaçırma, sonrasında arkadaşlarına “Bunu Neymar’dan öğrendim!” dersin…</p>
+
+<h1>MÜTEVAZI</h1>
+
+<p>Çoğu futbolcu gibi Neymar da mahalle kültüründe büyümüş, bir dünya starı olsa da halktan kopmamış biri. Her zaman mütevazı kişiliğini konuşturuyor. Onunla karşılaştığında bunu sen de göreceksin. Hatta, bazen galibiyet sevincini bile taraftarlarla selfie çektirerek kutlayabiliyor!
+    
+</p>
+<h1>NEYMAR JR ve ARKADAŞARI</h1>
+<p>
+    
+"Neymar'ın arkadaşıysanız krizi hissetmezsiniz"
+Paris Saint-Germain'in yıldızı Neymar, yaşam tarzından asla ödün vermeden seçkin partilerin ve lüks tatillerin tadını çıkarıyor. Net serveti 121 milyon dolar olan oyuncu, bunu yakın çevresiyle paylaşmaktan da korkmuyor.
+
+Hatta öyle ki Brezilya'da bu konuda, "Neymar'ın arkadaşıysanız ülkeyi kasıp kavuran ekonomik kriz ve işsizliği hissetmezsiniz" diyerek şaka bile yapılıyor.
+
+The Sun'ın haberine göre; Neymar'ın arkadaşları, onunla birlikte özel partilere, tatillere giderek lüks hayatın tadını çıkarıyor ve Brezilyalıdan aylık 11 bin dolar kazanıyorlar.
+
+Özellikle Gil Cebola, Jota Amancio ve Carlos Henrique, Neymar'ın en yakınları.
+
+2016'da Neymar ve üç arkadaşı, Brezilya, Copa America için mücadele ederken Serena Williams, UFC Octagon kızları ve ünlü modellerin yer aldığı bir partide görüntülendiler. Ayrıca Neymar'ın arkadaşları, oyuncunun 26. doğum günü için Paris'te, Lewis Hamilton, Brezilyalı Ronaldo, Victoria's Secret modellerinin yer aldığı bir parti düzenlediler.
+
+Neymar, PSG'ye rekor bir ücretle transfer olmadan önce arkadaşları için Ibiza'da malikane kiraladı.
+
+
+</p>
+<h1>SEMPATİK</h1>
+
+<p>Neymar saha içinde gerginlikten hep uzak duran, sürekli sert hareketlere maruz kaldığında bile sakinliğini koruyan bir futbolcu. Bu aslında saha dışındaki karakterini de yansıtıyor. Brezilyalı yıldız mütevazı olduğu kadar sempatik de bir kişilik. Barcelona’da Arda Turan’la hemen kanka olmasından belli!</p>
+    <h1>NEYMAR JR 2023 DEĞERİ</h1>
+    <p>Neymar da Silva Santos Júnior, yaygın olarak Neymar Jr. veya kısaca Neymar olarak bilinir, Fransız kulübü Paris Saint-Germain ve Brezilya milli takımı için forvet olarak oynayan Brezilyalı profesyonel bir futbolcudur. Dünyanın en iyi oyuncularından biri olarak kabul edilen oyuncu, top sürme, bitiriciliği, becerisi, hızı ve iki ayağıyla oynama yeteneği ile tanınır. Saha dışında, dünyanın en önde gelen sporcuları arasında yer alıyor.
+
+        Neymar'ın tahmini net değeri 200 milyon dolar.</p>
+        <img id="neymar1" src="njr3.jpg" alt="">
+        
+    </div>
+
+
+
+
+
+    
+
+    <div class="kutu">
+        <input type="email" placeholder="E-postanızı giriniz">
+        <input type="text" placeholder="Adınızı Soy Adınızı Giriniz">
+        <textarea placeholder="İletinizi Giriniz"></textarea>
+        <button><a href="">Gönder</a></button>
+    </div>
+
+    <div class="alt-menu">
+        <li id="hakkimda"><a href="" target="_blank">Hakkımda</a></li>
+        <li id="iletisim"><a href="" target="_blank">İletişim için şahsımın yani site sahibinin resmi ve tek instagram hesabı @omerzlvi(unofficial)</a></li>
+        
+     
+
+    </div>
+    
+
+</div>
+
+
+    
+</body>
+</html>

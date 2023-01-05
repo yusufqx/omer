@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neymar Junior</title>
+    <link rel="stylesheet" href="neymarwebst.css">
+</head>
+<body>
+    
+
+<div class="index">
+
+    <div id="bilek">Kadife Bilek Neymar</div>
+    <div class="ust">
+        <li id="anasayfa"><a href="anasayfa.html">Ana Sayfa</a></li>
+        <li id="liga"><a href="liga1.html">Neymar'ın Kariyeri</a></li>
+        <li id="odul"><a href="odul.html">Bireysel Ödüller</a></li>
+        <li id="transfer"><a href="transfer.html">Transfer Geçmişi</a></li>
+       
+        <li id="world"><a href="world.html">Neymar'ın Toplam Serveti ve Hobileri </a></li>
+       
+       
+        <li id="liga"><a href="video.html">Neymar için yapılan videolar </a></li>
+        
+    </div>
+
+
+
+
+
+    </div>
+
+
+
+    <div class="transfer-icerik">
+        <mark>Santos</mark>
+        
+      <p>  2003 yılında Santos altyapısında futbola başlayan Neymar 2009 yılında profesyonel oldu ve A Takım'da oynamaya başladı.
+        Neymar, 2010 sezonundaki performansıyla Manchester City, Inter, Real Madrid gibi birçok kulübün ilgisini çekmeye başladı. Başta Real Madrid ve Chelsea olmak üzere büyük kulüpler Neymar'ın menajeri Wagner Ribeiro ile görüşmelere başladı.
+
+Chelsea'yi, genç yıldızı Neymar'ı ayartmaya çalışmakla suçlayan Santos, 30.000.000 £'dan aşağı bir teklifi kabul etmediklerini açıkladı. Neymar için çok ısrarlı olan Chelsea'nin yaptığı teklifin düşük olması sebebiyle transfer gerçekleşmedi.
+
+Chelsea'nin yaptığı 17.000.000 £ ilk teklifi yeterli bulmayan Santos, genç futbolcunun sözleşmesindeki fesih (Serbest Kalma bedeli) bedeli olan 30.000.000 £'da ısrarcı olmuştu. Siyah-beyazlı kulüp, teklifine olumsuz yanıt verilmesine rağmen Neymar’la görüşmeleri sürdüren Chelsea'yi de FIFA’ya şikâyet etmekle tehdit etmişti.[18]
+
+Brezilya futbolunun efsane ismi Pelé eski takım arkadaşı Robinho ve Brezilya millî takımının yeni teknik direktörü Mano Menezes de, Chelsea hakkında olumsuz görüş bildirdi. </p>
+<mark>Barcelona</mark>
+<p>25 Mayıs Cumartesi günü resmen Barcelona'ya transfer oldu.
+    Transfer haberlerini Barcelona ve Santos kulüpleri resmî internet sitelerinden duyurdular.
+     İspanyol basınına göre Barcelona, Neymar için Santos'a 54 milyon euro bonservis ücreti ödedi. 
+     19 Şubat 2014 tarihinde, İspanya Ulusal Mahkeme Savcılığı transferde vergi kaçırıldığı iddiasıyla Barcelona'ya dava açılmasını talep etti.
+           </p>
+
+
+          <mark> Paris Saint-Germain</mark>
+          <p>
+2017-18 sezonu öncesinden PSG ile 222 Milyon Euro gibi rekor bir bonservis bedeliyle görüşmelere başladı.[26].
+
+3 Ağustos 2017 tarihinde başarılı bir şekilde 222 milyon Euro karşılığında PSG'ye transfer olmuştur.
+
+BBC'den gelen haberlere göre, Neymar yeni takımı Paris Saint-Germain'den vergiler hariç yılda 45 milyon Euro kazanacağı öğrenildi. 
+Brezilyalı yıldızın PSG'ye toplam maliyeti ise 446.75 milyon Euro'yu bulacak. Neymar'ın yeni takımında 10 numaralı formayı giyeceği öğrenildi.</p>
+        <table border="4"cellpadding="7" >
+            <caption>  <i>NEYMAR JR TRANSFER GEÇMİŞİ</i></caption>
+            <thead>              
+                <tr>
+                    <th>Yıl</th>                    
+                    <th>Takım</th>
+                    <th> <i>Gol Sayısı</i></th>                       
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><u>2009</u></td>                      
+                    <td>Santos SP</td>
+                    <td> <em>13</em></td>
+                       
+                </tr>                
+                <tr>
+                    <td >2010</td>                                           
+                    <td> Santos SP</td>
+                    <td>42</td>
+                </tr>
+              
+                <tr>
+                    <td >2011</td>                                           
+                    <td> Santos SP</td>
+                    <td>23</td>
+                </tr>
+                <tr>
+                    <td >2012</td>                                           
+                    <td> Santos SP</td>
+                    <td>42</td>
+                    <tr>
+                        <td >2013</td>                                           
+                        <td> Santos SP</td>
+                        <td>13</td>
+                    </tr>
+                    <tr>
+                        <td >2013/2014</td>                                           
+                        <td> Barcelona</td>
+                        <td>15</td>
+                    </tr>
+                    <tr>
+                        <td >2014/2015</td>                                           
+                        <td> Barcelona</td>
+                        <td>39</td>
+                    </tr>
+                    <tr>
+                        <td >2015/2016</td>                                           
+                        <td> Barcelona</td>
+                        <td>31</td>
+                    </tr>
+                    <tr>
+                        <td >2016/2017</td>                                           
+                        <td> Barcelona</td>
+                        <td>20</td>
+                    </tr>
+                    <tr>
+                        <td >2013/2014</td>                                           
+                        <td> Barcelona</td>
+                        <td>15</td>
+                    </tr>
+                    <tr>
+                        <td >2017/2018</td>                                           
+                        <td> PSG</td>
+                        <td>28</td>
+                    </tr>
+                    <tr>
+                        <td >2018/2019</td>                                           
+                        <td> PSG</td>
+                        <td>23</td>
+                    </tr>
+                    <tr>
+                        <td >2019/2020</td>                                           
+                        <td> PSG</td>
+                        <td>19</td>
+                    </tr>
+                    <tr>
+                        <td >2020/2021</td>                                           
+                        <td> PSG</td>
+                        <td>17</td>
+                    </tr>
+                    <tr>
+                        <td >2021/2022</td>                                           
+                        <td> PSG</td>
+                        <td>13</td>
+                    </tr>
+                    <tr>
+                        <td >2022/2023</td>                                           
+                        <td> PSG</td>
+                        <td>15</td>
+                    </tr>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+               
+            </tr>
+            </tfoot>
+
+            <hr/>
+        </table>
+        <hr/>
+        <img id="neymar1" src="njr2.jpg" alt="">
+    </div>
+
+
+
+
+
+    
+
+    <div class="kutu">
+        <input type="email" placeholder="E-postanızı giriniz">
+        <input type="text" placeholder="Adınızı Soy Adınızı Giriniz">
+        <textarea placeholder="İletinizi Giriniz"></textarea>
+        <button><a href="">Gönder</a></button>
+    </div>
+
+    <div class="alt-menu">
+        <li id="hakkimda"><a href="" target="_blank">Hakkımda</a></li>
+        <li id="iletisim"><a href="" target="_blank">İletişim için şahsımın yani site sahibinin resmi ve tek instagram hesabı @omerzlvi(unofficial)</a></li>
+        
+     
+
+    </div>
+    
+
+</div>
+
+
+    
+</body>
+</html>

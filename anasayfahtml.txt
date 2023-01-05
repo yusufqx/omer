@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neymar Junior</title>
+    <link rel="stylesheet" href="neymarwebst.css">
+</head>
+<body>
+    
+
+<div class="index">
+
+    <div id="bilek">Kadife Bilek Neymar</div>
+    <div class="ust">
+        <li id="anasayfa"><a href="anasayfa.html">Ana Sayfa</a></li>
+       
+        <li id="liga"><a href="liga1.html">Neymar'ın Kariyeri</a></li>
+        <li id="odul"><a href="odul.html">Bireysel Ödüller</a></li>
+        <li id="transfer"><a href="transfer.html">Transfer Geçmişi</a></li>
+        <li id="world"><a href="world.html">Neymar'ın Toplam Serveti ve Hobileri </a></li>
+      
+       
+        <li id="liga"><a href="video.html">Neymar için yapılan videolar </a></li>
+       
+    </div>
+
+
+
+
+
+    </div>
+
+
+
+    <div class="anasayfa-icerik">
+        <img id="neymar1" src="njrana.jpg" alt="">
+       
+
+
+        
+        <mark> Neymar Kimdir ?</mark>
+       
+
+<p>Neymar da Silva Santos Júnior ya da bilinen adıyla Neymar 05.02.1992 doğumludur.
+
+Forvet ve sol açık mevkilerinde görev yapan Brezilyalı futbolcudur.Şu an La Liga ekiplerinden Barcelona'da 11 numaralı formayı giymektedir.
+
+2009 Campeonato Paulista'da Yılın Genç Futbolcusu ödülünün sahibi olmuştur.
+
+2011 ve 2012 yılında Güney Amerika'da Yılın Futbolcusu seçilmiştir. 2011 yılında Santos - Flamengo maçının 26. dakikasında attığı gol, FIFA tarafından 2011 yılının en iyi golü seçilmiştir
+
+Neymar 2011 FIFA Puskás Ödülü'nün sahibi olmuştur.2013 yılında milli takımıyla almış olduğu FIFA Konfederasyonlar Kupası turnuvasının sonunda Adidas Altın Top ödülüne layık görülmüştür. Bu turnuvada çıktığı 5 maçta (412 dakika) 4 gol atmıştır.ve turnuvanın final maçında maçın adamı seçilmiştir.
+
+Neymar, 5 Şubat 1992 yılında Brezilya'nın Mogi das Cruzes kentinde dünyaya gözlerini açtı.
+
+2003 yılında daha 11 yaşındayken Santos'ta futbol kariyerine başladı.
+
+2009 yılında Santos ile profesyonel kariyerinin ilk maçına çıkmadan önce, kulübün altyapı takımıyla birçok maçta yer aldı. Profesyonel kariyerinin ilk senesinde (2009) Campeonato Paulista'da Yılın Genç Futbolcusu ödülünün sahibi oldu ve o yıl Copa Libertadores'in alınmasında en çok payı olan oyunculardan biriydi.
+
+İlk millî maçını daha 18 yaşındayken ABD'ye karşı oynadı ve takımının 2-0 kazandığı maçta bir de gol attı.2013-14 sezonu başlamadan önce 57 milyon avro karşılığında Barcelona'ya transfer oldu.Sezon başlamadan önce yapılan 2013 Konfederasyon Kupası'nda 10 numarasını giydiği Brezilya Millî Takımı kupanın, Neymar ise 5 maçta attığı 4 gol ile turnuvanın sonunda verilen Altın Top ödülünün sahibi oldu.
+
+Santos FC
+2003 yılında Santos altyapısında futbola başlayan Neymar 2009 yılında profesyonel oldu ve A Takım'da oynamaya başladı.
+
+Neymar, 2010 sezonundaki performansıyla Manchester City, Inter, Real Madrid gibi birçok kulübün ilgisini çekmeye başladı. Başta Real Madrid ve Chelsea olmak üzere büyük kulüpler Neymar'ın menajeri Wagner Ribeiro ile görüşmelere başladı.
+
+Chelsea'yi, genç yıldızı Neymar'ı ayartmaya çalışmakla suçlayan Santos, 30.000.000 £'dan aşağı bir teklifi kabul etmediklerini açıkladı. Neymar için çok ısrarlı olan Chelsea'nin yaptığı teklifin düşük olması sebebiyle transfer gerçekleşmedi.
+
+Neymar, 2009'dan bu yana forma giydiği 224 maçta 136 gol kaydetti. 32 kez terlettiği Brezilya Millî Takımı formasıyla da 20 gole imza attı.
+
+FC Barcelona
+25 Mayıs Cumartesi günü resmen Barcelona'ya transfer oldu. Transfer haberlerini Barcelona ve Santos kulüpleri resmî internet sitelerinden duyurdular.
+
+İspanyol basınına göre Barcelona, Neymar için Santos'a 54 milyon euro bonservis ücreti ödedi. 19 Şubat 2014 tarihinde, İspanya Ulusal Mahkeme Savcılığı transferde vergi kaçırıldığı iddiasıyla Barcelona'ya dava açılmasını talep etti.
+
+Paris Saint-Germain FC
+2017-18 sezonu öncesinden PSG ile 222 Milyon euro gibi rekor bir bonservis bedeliyle görüşmelere başladı.
+
+Neymar, 222 milyon Euro karşılığında PSG'ye transfer oldu . Paris Saint-Germain, Neymar ile 5 yıllık sözleşme imzaladı
+
+BBC'nin haberine göre Neymari yeni takımı Paris Saint-Germain'den vergiler hariç yılda 45 milyon Euro kazanacak.
+
+Brezilyalı yıldızın PSG'ye toplam maliyeti ise 446.75 milyon Euro'yu bulacak. Neymar'ın yeni takımında 10 numaralı formayı giyeceği öğrenildi.
+
+Millî takım kariyeri
+U-17
+2009 da ilk defa U-17 katagorisinde Brezilya millî takım formasını giydi. Burda gösterdiği performansla 2010 FIFA Dünya Kupası finallerine alınması istendi. Brezilya futbolunun efsane ismi Pelé ve eski ünlü futbolcu Romário ve Formula pilotu Felipe Massa Neymar'ın Dunga tarafından 2010 FIFA Dünya Kupası'na çağırılmasını istedi.
+
+U-20[değiştir
+7 Kez Brezilya U-20 millî takım formasını giyen Neymar bu maçlarda 9 gol kaydetti.
+
+A Takım
+2010 FIFA Dünya Kupası’ndan sonra Brezilya Millî Takımı’nın başına geçen Menezes, Neymar'a 10 Ağustos'ta Amerika Birleşik Devletleri ile oynanan hazırlık maçında ilk kez forma verdi. 11 numaralı forma ile sahaya çıkan Neymar bir de gol attı.
+
+2014 FIFA Dünya Kupası'nda Brezilya - Kolombiya maçında Kolombiya'lı Zúñiga tarafından belden sakatlandı ve belinde kırık olduğu belirlenmiştir.
+
+2014 FIFA Dünya Kupası'ndan sonra Brezilya Millî Takımı'nın başına geçen Dunga'nın 2014 Eylül ayından itibaren Thiago Silva yerine takımın yeni kaptanının Neymar olduğunu açıklamıştır.</p>
+    </div>
+
+
+
+
+
+
+    
+
+    <div class="kutu">
+        <input type="email" placeholder="E-postanızı giriniz">
+        <input type="text" placeholder="Adınızı Soy Adınızı Giriniz">
+        <textarea placeholder="İletinizi Giriniz"></textarea>
+        <button><a href="">Gönder</a></button>
+    </div>
+
+    <div class="alt-menu">
+        <li id="hakkimda"><a href="" target="_blank">Hakkımda</a></li>
+        <li id="iletisim"><a href="" target="_blank">İletişim için şahsımın yani site sahibinin resmi ve tek instagram hesabı @omerzlvi(unofficial)</a></li>
+        
+     
+
+    </div>
+    
+
+</div>
+
+
+    
+</body>
+</html>

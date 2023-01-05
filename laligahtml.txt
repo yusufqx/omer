@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neymar Junior</title>
+    <link rel="stylesheet" href="neymarwebst.css">
+</head>
+<body>
+    
+
+<div class="index">
+
+    <div id="bilek">Kadife Bilek Neymar</div>
+    <div class="ust">
+        <li id="anasayfa"><a href="anasayfa.html">Ana Sayfa</a></li>
+        
+        <li id="liga"><a href="liga1.html">Neymar'ın Kariyeri</a></li>
+        <li id="odul"><a href="odul.html">Bireysel Ödüller</a></li>
+        <li id="transfer"><a href="transfer.html">Transfer Geçmişi</a></li>
+        <li id="world"><a href="world.html">Neymar'ın Toplam Serveti ve Hobileri </a></li>
+        <li id="liga"><a href="video.html">Neymar için yapılan videolar </a></li>
+        
+        
+        
+    </div>
+
+
+
+
+
+    </div>
+
+
+
+<div class="laliga-icerik">
+    <h1>Neymar kariyeri boyunca kaç gol attı? PSG yıldızının inanılmaz istatistikleri
+    </h1>
+<p>Neymar, Santos, Barcelona, PSG ve Brezilya formalarını giydiği süre boyunca kaç kez fileleri havalandırdı?
+
+    Neymar'ın futboldaki en iyi hücumculardan biri olduğu inkar edilemez. Ancak Lionel Messi ve Cristiano Ronaldo'nun ulaşılması zor istatistikleri, bazı yıldızları gölgede bıraktı. Yine de bu durum, Brezilyalının zoru başardığı gerçeğini değiştirmiyor.
+    
+    Kariyeri boyunca 400'den fazla gol atmayı başaran Neymar, geçtiğimiz yılları biraz suskun geçirse de Dünya Kupası öncesinde performansını arttırdı.
+    
+    </p>
+
+    <h1>Neymar'ın PSG, Barcelona, Santos ve Brezilya formalarıyla kaç golü var?</h1>
+    <p>Yetenekli hücum oyuncusu kariyerine Santos ile başladı ve genç yaşında ülkesinden ayrılmasına neden olacak bir performans sergiledi.
+
+        Neymar, Santos formasıyla çıktığı 225 maçta 136 gol attı. Bu istatistik, Barcelona'nın ona büyük paralar dökmesi için yeterliydi ve Brezilyalı, Camp Nou'da da unutulmaz bir etki bıraktı.
+        
+        Lionel Messi ve Luis Suarez ile futbolun en iyi hücum üçlülerinden birini oluşturan Neymar, Katalan devinin formasıyla 186 maçta 105 gol kaydetti.
+        
+        2017 yazında rekor bir ücretle PSG'ye imza atan yıldız, Fransız devi için de yüzün üzerinde gole imza attı. 2022/23 sezonunda Paris ekibi için fileleri havalandırmaya devam ediyor.</p>
+        <h1>Neymar, Brezilya Serie A, La Liga ve Ligue 1'de kaç gol attı?</h1>
+        <p>Neymar, Ligue 1'de La Liga ve Serie A'da kaydettiklerinden daha fazla gol attı. Böyle giderse Brezilyalı, Ligue 1 tarihinin en çok gol atanlar listesine göz kırpacak gibi görünüyor.
+            <table border="4"cellpadding="7">
+              
+                <thead>              
+                    <tr>
+                        <th>LİG</th>                    
+                        <th>MAÇ</th>
+                        <th> <i>GOL SAYISI</i></th>                       
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><u>Brezilya Serie A</u></td>                      
+                        <td>103</td>
+                        <td> <em>54</em></td>
+                           
+                    </tr>              
+                    <tr>
+                        <td><u>LALİGA</u></td>                      
+                        <td>123</td>
+                        <td> <em>68</em></td>
+                           
+                    </tr>             
+                    <tr>
+                        <td >LIGUE-1</td>                                           
+                        <td> 105</td>
+                        <td>80</td>
+                    </tr>
+                  
+                    </table>
+        </p>
+        <h1>Neymar, Şampiyonlar Ligi'nde kaç gol attı?</h1>
+<p>PSG'nin Neymar'ı transfer etmesinin nedenlerinden biri Şampiyonlar Ligi kupasına uzanmaktı. Ancak henüz bunu başaramadılar.
+     Neymar, Şampiyonlar Ligi'nde bugüne kadar 80 karşılaşmaya çıktı ve 43 gol attı.
+      Turnuvada en çok gol atan 15 oyuncu arasında yer alıyor.</p>
+      <h1>Neymar, Brezilya'da kaç gol attı?</h1>
+<p>Neymar, Pele'yi geride bırakarak Brezilya'nın en çok gol atan oyuncusu olma yolunda ilerliyor. PSG'nin yıldızı milli forma ile 121 karşılaşmada 75 gol attı.
+
+    30 yaşındaki oyuncu, Cristiano Ronaldo'nun en üst sırada yer aldığı milli formayla en fazla gol atan oyuncular listesinde.</p>
+    
+</div>
+
+
+
+
+    
+
+    <div class="kutu">
+        <input type="email" placeholder="E-postanızı giriniz">
+        <input type="text" placeholder="Adınızı Soy Adınızı Giriniz">
+        <textarea placeholder="İletinizi Giriniz"></textarea>
+        <button><a href="">Gönder</a></button>
+    </div>
+
+    <div class="alt-menu">
+        <li id="hakkimda"><a href="" target="_blank">Hakkımda</a></li>
+        <li id="iletisim"><a href="" target="_blank">İletişim için şahsımın yani site sahibinin resmi ve tek instagram hesabı @omerzlvi(unofficial)</a></li>
+        
+     
+
+    </div>
+    
+
+</div>
+
+
+    
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neymar Junior</title>
+    <link rel="stylesheet" href="neymarwebst.css">
+</head>
+<body>
+    
+
+<div class="index">
+
+    <div id="bilek">Kadife Bilek Neymar</div>
+    <div class="ust">
+        <li id="anasayfa"><a href="anasayfa.html">Ana Sayfa</a></li>
+        <li id="liga"><a href="liga1.html">Neymar'ın Kariyeri</a></li>
+        <li id="odul"><a href="odul.html">Bireysel Ödüller</a></li>
+          
+        <li id="transfer"><a href="transfer.html">Transfer Geçmişi</a></li>
+        <li id="world"><a href="world.html">Neymar'ın Toplam Serveti ve Hobileri </a></li>
+        <li id="liga"><a href="video.html">Neymar için yapılan videolar </a></li>
+       
+     
+    </div>
+
+
+
+
+
+    </div>
+
+
+
+    <div class="odul-icerik">
+      
+      <h1> Neymar'ın Dünya Kupası var mı? Neymar Dünya Kupası kazandı mı, aldı mı? Neymar'ın milli takımda kaç kupası var?</h1> 
+
+
+
+<p>     Brezilya'nın en yetenekli oyuncularından kabul edilen Neymar'ın toplamda kaç kupası var merak ediliyor. 2022 Brezilya Dünya Kupası maçlarını seyreden taraftarlar, Neymar'ın Dünya Kupası var mı? Neymar Dünya Kupası kazandı mı, aldı mı? Neymar'ın milli takımda kaç kupası var? araştırması yapıyor. İşte detaylar...
+
+Neymar'ın kupası var mı? Neymar'ın toplam kaç Dünya Kupası var? Neymar'ın kupa sayısı kaçtır? Neymar'ın toplam kaç kupası var? Neymar'ın hiç Dünya Kupası şampiyonluğu bulunuyor mu? Ayrıntılar sizlerle...
+
+NEYMAR'IN DÜNYA KUPASI ŞAMPİYONLUĞU VAR MI?
+Neymar'ın hiç Dünya Kupası şampiyonluğu bulunmuyor. Neymar'ın hiç Dünya Kupası bulunmuyor. Neymar şuana kadar Brezilya ile toplam 2 kupa kaldırdı ve 1 olimpiyat madalyası bulunuyor. Neymar ve Brezilya takımı 2013 yılında "CONFEDERATİONS-CUP-SİEGER" kupası, 2011 yılında "U20-SÜDAMERİKAMEİSTER" kupası bulunuyor. Brezilya 2015-2016 sezonunda ise olimpik oyunlar şampiyonu olmuştur.
+
+NEYMAR'IN MİLLİ TAKIM KARİYERİ
+U-17
+
+2009'da ilk defa U-17 kategorisinde Brezilya millî takım formasını giydi. Burada gösterdiği performansla 2010 FIFA Dünya Kupası finallerine alınması istendi. Brezilya futbolunun efsane ismi Pelé ve eski ünlü futbolcu Romário ve Formula pilotu Felipe Massa Neymar'ın Dunga tarafından 2010 FIFA Dünya Kupası'na çağrılmasını istedi. Fakat Dunga tarafından açıklana 23 kişilik kadroda kendine yer bulamadı.
+
+U-20
+
+7 Kez Brezilya U-20 millî takım formasını giyen Neymar bu maçlarda 9 gol kaydetti.
+
+A Takım
+
+2010 FIFA Dünya Kupası'ndan sonra Brezilya millî takımının başına geçen Menezes, Neymar'a 10 Ağustos'ta Amerika Birleşik Devletleri ile oynanan hazırlık maçında ilk kez forma verdi. 11 numaralı forma ile sahaya çıkan Neymar bir de gol attı. 2014 FIFA Dünya Kupası'nda Brezilya - Kolombiya maçında Kolombiya'lı Zúñiga tarafından belden sakatlandı ve belinde kırık olduğu belirlenmiştir.</p> 
+<img id="neymar1" src="neymartransfer1.jpg" alt="">
+<img id="neymar1" src="neymartransfer2.jpg" alt="">
+        
+    </div>
+
+
+
+
+
+    
+
+    <div class="kutu">
+        <input type="email" placeholder="E-postanızı giriniz">
+        <input type="text" placeholder="Adınızı Soy Adınızı Giriniz">
+        <textarea placeholder="İletinizi Giriniz"></textarea>
+        <button><a href="">Gönder</a></button>
+    </div>
+
+    <div class="alt-menu">
+        <li id="hakkimda"><a href="" target="_blank">Hakkımda</a></li>
+        <li id="iletisim"><a href="" target="_blank">İletişim için şahsımın yani site sahibinin resmi ve tek instagram hesabı @omerzlvi(unofficial)</a></li>
+        
+     
+
+    </div>
+    
+
+</div>
+
+
+    
+</body>
+</html>
